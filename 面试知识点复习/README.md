@@ -1,9 +1,5 @@
 ># css
-<<<<<<< HEAD:面试知识点复习/README.md
 >## 移动端适配1px的问题
-=======
-##移动端适配1px的问题
->>>>>>> c636be61aabd8e7f5d2f61b85c142c46b75d1c4d:面试知识点复习.md
 - 伪元素+transform
 ```css
 .border-1px {
